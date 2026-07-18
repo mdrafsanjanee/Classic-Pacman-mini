@@ -1,6 +1,6 @@
 # 🟡 Classic PacMan Game in C
 
-A simple console-based **PacMan game** built using **pure C programming**, focusing on **basic logic, arrays, and fundamental concepts**. This project is designed as a **mini project for 1st semester students** to demonstrate understanding of loops, conditions, and array manipulation.
+A simple console-based **PacMan game** built using **pure C programming**, focusing on **basic logic, arrays, and fundamental concepts**. This project is designed as a **mini project** to demonstrate understanding of loops, conditions, and array manipulation.
 
 ---
 
@@ -18,8 +18,8 @@ The goal of this project is to:
 ## 🧠 Concepts Used
 
 * Arrays (1D & 2D)
-* Loops (`for`, `while`)
-* Conditional statements (`if-else`, `switch`)
+* Loops
+* Conditional statements
 * Functions
 * Basic input/output
 * Game logic handling
@@ -51,27 +51,23 @@ The goal of this project is to:
 ## 🗂️ Project Structure
 
 ```
-PacMan-C/
-│── main.c        # Main game logic
-│── README.md     # Project documentation
+Classic Pacman mini/
+│── pacman.c
+│── pacman.exe
+│── README.md
 ```
 
 ---
 
 ## ⚙️ How to Run
 
-### 🔹 Using GCC (Recommended)
+### 🔹 Using Git (Recommended)
 
 ```bash
-gcc main.c -o pacman
-./pacman
-```
 
-### 🔹 On Windows (MinGW)
+git clone https://github.com/mdrafsanjanee/Classic-Pacman-mini.git
 
-```bash
-gcc main.c -o pacman.exe
-pacman.exe
+cd Classic-Pacman-mini
 ```
 
 ---
@@ -99,15 +95,17 @@ The game runs in the console where:
 ## 👨‍💻 Contributors
 
 **Md. Rafsan Janee**
-CSE 1st Semester [2026-2-60-169@std.ewubd.edu]
+CSE@EWU 1st Semester [2026-2-60-169@std.ewubd.edu]
 
 **Tanvir Mahdin Haque**
-CSE 1st Semester [2026-2-60-220@std.ewubd.edu]
+CSE@EWU 1st Semester [2026-2-60-220@std.ewubd.edu]
 
+**Maliha Farzana**
+CSE@EWU 1st Semester [2026-2-60-214@std.ewubd.edu]
 ---
 
 ## 📌 Note
 
-This project is built **purely using C (no external libraries)** and is intended for educational purposes.
+This project is built **purely using C** and is intended for educational purposes ony.
 
 ---
