@@ -95,13 +95,17 @@ The game runs in the console where:
 ## 👨‍💻 Contributors
 
 **Md. Rafsan Janee**
+
 CSE@EWU 1st Semester [2026-2-60-169@std.ewubd.edu]
 
 **Tanvir Mahdin Haque**
+
 CSE@EWU 1st Semester [2026-2-60-220@std.ewubd.edu]
 
 **Maliha Farzana**
+
 CSE@EWU 1st Semester [2026-2-60-214@std.ewubd.edu]
+
 ---
 
 ## 📌 Note
