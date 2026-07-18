@@ -1,3 +1,5 @@
 /*THE PACMAN GAME*/
 
 A Pacman game on a 20x10 grid array with # as the pacman, and * as the points.
+
+The project is done by Rafsan, Tanvir and Maliha.
