@@ -29,11 +29,11 @@ The goal of this project is to:
 ## 🎮 Features
 
 * 🟡 Player-controlled PacMan movement
-* 👻 Ghost/enemy movement (basic logic)
+* 👻 Enemy movement 
 * 🧱 Maze represented using 2D arrays
 * 🍒 Food/points collection system
 * 💯 Score tracking
-* ❌ Game over condition (collision with ghost)
+* ❌ Game over condition (collision with enemy)
 
 ---
 
@@ -45,7 +45,6 @@ The goal of this project is to:
 | S   | Move Down  |
 | A   | Move Left  |
 | D   | Move Right |
-| Q   | Quit Game  |
 
 ---
 
@@ -97,20 +96,13 @@ The game runs in the console where:
 
 ---
 
-## 📚 Learning Outcome
-
-After completing this project, you will understand:
-
-* How to use arrays to represent game environments
-* How to manage real-time input in console
-* How to structure a small C project
-
----
-
 ## 👨‍💻 Contributors
 
 **Md. Rafsan Janee**
 CSE 1st Semester [2026-2-60-169@std.ewubd.edu]
+
+**Tanvir Mahdin Haque**
+CSE 1st Semester [2026-2-60-220@std.ewubd.edu]
 
 ---
 
