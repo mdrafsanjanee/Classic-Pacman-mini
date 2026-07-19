@@ -9,7 +9,7 @@ int main() {
     printf("Welcome to the Classic Pacman Mini\n");
     
     int uiInput;
-    printf("1. New Game\n2. Options\n3. Exit");
+    printf("1. New Game\n2. Options\n3. Exit\n");
     do {
     printf("Enter your choice: (1-3): ");
     scanf("%d", &uiInput);
@@ -17,7 +17,8 @@ int main() {
     switch (uiInput)
     {
     case 1:
-        printf("Loading....");
+        printf("Loading....\n");
+        Sleep(2500);
         system("cls");
         maingrid();
         break;
