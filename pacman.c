@@ -17,8 +17,15 @@ int main() {
     switch (uiInput)
     {
     case 1:
-        printf("Loading....\n");
-        Sleep(2500);
+        system("cls");
+        printf("Loading.");
+        Sleep(1000);
+        printf(".");
+        Sleep(500);
+        printf(".");
+        Sleep(500);
+        printf(".");
+        Sleep(500);
         system("cls");
         maingrid();
         break;
